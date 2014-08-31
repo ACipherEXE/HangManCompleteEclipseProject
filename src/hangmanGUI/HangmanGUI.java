@@ -138,7 +138,8 @@ public class HangmanGUI extends JFrame {
 		mnHelp.add(mntmNewMenuItem_1);
 		mntmNewMenuItem_1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				About.launch();
+//				About.launch();
+				(new About()).setVisible(true);
 			}
 		});
 		contentPane = new myJPanel(config);
