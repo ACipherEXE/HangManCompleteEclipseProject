@@ -39,7 +39,7 @@ public class About extends JFrame {
 	private static final long serialVersionUID = 1L;
 	
 	public About() {
-		setTitle("About Hangman Ben and Bill");
+		setTitle("About Hangman which is really cool");
 		setResizable(false);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 400, 450, 300);
