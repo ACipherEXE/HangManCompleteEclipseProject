@@ -1,4 +1,4 @@
-Plugh
+Plug
 Tractor
 Cow
 Football
@@ -7,3 +7,5 @@ Cardinal
 Round
 Hundred
 Percentage
+Git
+Hub
