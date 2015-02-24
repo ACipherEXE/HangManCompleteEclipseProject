@@ -32,7 +32,7 @@ import java.awt.event.InputEvent;
 import java.awt.event.WindowEvent;
 
 /**
- * The About box. It's great
+ * The About box. It's great.
  * @author nicomp
  *
  */
