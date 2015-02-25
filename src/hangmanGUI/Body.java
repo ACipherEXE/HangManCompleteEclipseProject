@@ -3,6 +3,7 @@
  * nicholdw@ucmail.uc.edu
  * Little Hangman game
  * It's fun, really!
+ * This is the next angrybirds!
  */
 package hangmanGUI;
 
