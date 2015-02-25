@@ -2,6 +2,7 @@
  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
  * Little Hangman game
+ * I'm hungry for a real burrito. Taco Bell is real.
  */
 package hangmanGUI;
 
