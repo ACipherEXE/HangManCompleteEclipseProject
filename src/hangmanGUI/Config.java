@@ -11,6 +11,7 @@ import hangmanPackage.Preferences;
 import java.awt.Color;
 
 public class Config {
+	private int CaptainPicard42;
 	private int baseHeight, baseWidth;
 	private int poleHeight, poleWidth;
 	private int armHeight, armWidth;
